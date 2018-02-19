@@ -1,0 +1,4 @@
+linguage: node_js
+node_js:
+  - "stable"
+script: appTest
